@@ -1,0 +1,10 @@
+
+˜	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ñ³ùÿÿÿÿ8Ö£ø¤ü1J$311aa9b5-36be-40c9-adeb-8a29a8d58d02
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÊŒÉøÿÿÿÿ8¿ÌÂ¤ü1J$7f62224a-008b-433b-8792-87ae1c5e3a27
+¤
+java:S1488j"aImmediately return this expression instead of assigning it to the temporary variable "ipAddress".(î×ğº8¨Áì‡€2J$abd34f4d-b287-45e2-ad19-95dcfda1e3ec
+r	java:S106"+Replace this use of System.out by a logger.(Æ•Á¢ùÿÿÿÿ8æ£ø¤ü1J$f4469fdc-ed6f-4441-9245-0d4e0a82a7e1
+‰	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8é£ø¤ü1J$1639d075-dbc3-43d0-916e-0cea69d0f488
+m	java:S106Q"+Replace this use of System.out by a logger.(ƒÖá†8í£ø¤ü1J$8afada22-feaa-44dc-a0fe-2674776eb1c9
+m	java:S106Z"+Replace this use of System.out by a logger.(ßÎŞä8î£ø¤ü1J$53711195-2ee9-49b0-bb39-8b40e7fdb7f9
+r	java:S106\"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ï£ø¤ü1J$f7bc2491-96ab-4518-a3d8-ae4154f369b0
